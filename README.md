@@ -80,6 +80,3 @@ Before running this project, make sure you have:
 
 This project is licensed under the Apache License 2.0. See the `LICENSE.txt` file for details.
 
-## Author
-
-Activity 1 - Enrollment System
